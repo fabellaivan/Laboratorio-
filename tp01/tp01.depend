@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618599625 source:c:\users\ivan fabella\desktop\tp01\tp01 muleto\tp01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp01.h"
+
+1618677386 c:\users\ivan fabella\desktop\tp01\tp01 muleto\tp01\tp01.h
+
+1618677849 source:c:\users\ivan fabella\desktop\tp01\tp01 muleto\tp01\tp01.c
+	"tp01.h"
+
